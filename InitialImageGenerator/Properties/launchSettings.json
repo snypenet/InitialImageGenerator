@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InitialImageGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Anika McCanna\""
+    }
+  }
+}
